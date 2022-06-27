@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Maria",
+      "empresa": "Airbus",
+      "email": "maria@airbus.fr",
+      "telefono": "795655556",
+      "notas": "Recomendacion de un amigo",
+      "id": 1
+    },
+    {
+      "nombre": "Sohayb",
+      "empresa": "DiamPark",
+      "email": "sohayb@diampark.com",
+      "telefono": "591655556",
+      "notas": "Recomendado por otro",
+      "id": 2
+    },
+    {
+      "nombre": "Anne",
+      "empresa": "CasaDePapel",
+      "email": "anne@casadepapel.es",
+      "telefono": "5648532368",
+      "notas": "Vamo a hace un ataco",
+      "id": 6
+    }
+  ]
+}
